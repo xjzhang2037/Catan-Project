@@ -1,0 +1,2 @@
+pathEdge Y12X12cY43X12 = new pathEdge(Y12X12 , Y43X12); 	pathEdge Y12X4cY2X1 = new pathEdge(Y12X4 , Y2X1); 	
+pathEdge Y12X42cY2X1 = new pathEdge(Y12X42 , Y2X1); 	

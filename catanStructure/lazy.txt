@@ -1,0 +1,12 @@
+junctionNode Y1X4 = new junctionNode(1,4);	junctionNode Y1X6 = new junctionNode(1,6);	junctionNode Y1X8 = new junctionNode(1,8);	
+junctionNode Y2X3 = new junctionNode(2,3);	junctionNode Y2X5 = new junctionNode(2,5);	junctionNode Y2X7 = new junctionNode(2,7);	junctionNode Y2X9 = new junctionNode(2,9);	
+junctionNode Y3X3 = new junctionNode(3,3);	junctionNode Y3X5 = new junctionNode(3,5);	junctionNode Y3X7 = new junctionNode(3,7);	junctionNode Y3X9 = new junctionNode(3,9);	
+junctionNode Y4X2 = new junctionNode(4,2);	junctionNode Y4X4 = new junctionNode(4,4);	junctionNode Y4X6 = new junctionNode(4,6);	junctionNode Y4X8 = new junctionNode(4,8);	junctionNode Y4X10 = new junctionNode(4,10);	
+junctionNode Y5X2 = new junctionNode(5,2);	junctionNode Y5X4 = new junctionNode(5,4);	junctionNode Y5X6 = new junctionNode(5,6);	junctionNode Y5X8 = new junctionNode(5,8);	junctionNode Y5X10 = new junctionNode(5,10);	
+junctionNode Y6X1 = new junctionNode(6,1);	junctionNode Y6X3 = new junctionNode(6,3);	junctionNode Y6X5 = new junctionNode(6,5);	junctionNode Y6X7 = new junctionNode(6,7);	junctionNode Y6X9 = new junctionNode(6,9);	junctionNode Y6X11 = new junctionNode(6,11);	
+junctionNode Y7X1 = new junctionNode(7,1);	junctionNode Y7X3 = new junctionNode(7,3);	junctionNode Y7X5 = new junctionNode(7,5);	junctionNode Y7X7 = new junctionNode(7,7);	junctionNode Y7X9 = new junctionNode(7,9);	junctionNode Y7X11 = new junctionNode(7,11);	
+junctionNode Y8X2 = new junctionNode(8,2);	junctionNode Y8X4 = new junctionNode(8,4);	junctionNode Y8X6 = new junctionNode(8,6);	junctionNode Y8X8 = new junctionNode(8,8);	junctionNode Y8X10 = new junctionNode(8,10);	
+junctionNode Y9X2 = new junctionNode(9,2);	junctionNode Y9X4 = new junctionNode(9,4);	junctionNode Y9X6 = new junctionNode(9,6);	junctionNode Y9X8 = new junctionNode(9,8);	junctionNode Y9X10 = new junctionNode(9,10);	
+junctionNode Y10X3 = new junctionNode(10,3);	junctionNode Y10X5 = new junctionNode(10,5);	junctionNode Y10X7 = new junctionNode(10,7);	junctionNode Y10X9 = new junctionNode(10,9);	
+junctionNode Y11X3 = new junctionNode(11,3);	junctionNode Y11X5 = new junctionNode(11,5);	junctionNode Y11X7 = new junctionNode(11,7);	junctionNode Y11X9 = new junctionNode(11,9);	
+junctionNode Y12X4 = new junctionNode(12,4);	junctionNode Y12X6 = new junctionNode(12,6);	junctionNode Y12X8 = new junctionNode(12,8);	
